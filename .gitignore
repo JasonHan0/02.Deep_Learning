@@ -142,3 +142,7 @@ Califonia.py
 etriaikey.txt
 01.YOLOv3_.ipynb
 04.RNN/Data/한국어불용어100.txt
+Datasets/
+07.Recommend_Sysyem/data/ml-latest.zip
+04.RNN/ko.zip
+Test/
